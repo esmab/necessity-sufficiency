@@ -5,4 +5,5 @@ __pycache__
 Data/Classifier_data
 Data/ILM
 Data/raw
+Models
 ilm/data/char_masks/compound_dataset
